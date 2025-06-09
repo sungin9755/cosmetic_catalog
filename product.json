@@ -1,0 +1,20 @@
+[
+  {
+    "id": "001",
+    "name": "크림형 용기",
+    "year": "2021",
+    "material": "아크릴",
+    "feature": "크림, 밤 등 고점도 내용물에 적합",
+    "description": "심플한 디자인과 높은 투명도의 아크릴 케이스입니다.",
+    "image": "img/001.jpg"
+  },
+  {
+    "id": "002",
+    "name": "립밤 케이스",
+    "year": "2022",
+    "material": "ABS",
+    "feature": "립밤, 립스틱 등 고체 내용물",
+    "description": "회전식 구조로 사용이 간편합니다.",
+    "image": "img/002.jpg"
+  }
+]
